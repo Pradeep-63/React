@@ -1,0 +1,15 @@
+Q-What Is React ?
+Ans:React is a JavaScript library that helps developers build user interfaces for websites or web applications. Developed by Facebook, React simplifies the process of creating interactive and dynamic UIs. It uses a component-based architecture, allowing developers to break down the user interface into smaller, reusable pieces. One of its key features is the Virtual DOM, which boosts performance by efficiently updating only the necessary parts of a web page when changes occur. React has become widely popular for its simplicity, flexibility, and the ability to efficiently manage and update complex user interfaces.
+Q-What is jsx ?
+Ans-Imagine you're building a webpage using React. Instead of writing your user interface (UI) in a complex way, React lets you use a special kind of syntax called JSX. It's like a mix of JavaScript and HTML.
+Q-Components in react ?
+Ans:-In React, components are the building blocks of the user interface. A component in React is essentially a reusable, isolated piece of UI that can be used to create more complex interfaces. Components allow developers to break down the UI into smaller, manageable parts that can be developed, maintained, and tested independently.
+Q-What is props ?
+Ans-Props is short for properties, and they are like special instructions you give to React components. Imagine you have a parent component (let's call it the sender) and a child component (let's call it the receiver). Props are how the parent tells the child what to do or what information to display. It's important to note that props are read-only, meaning the child component cannot modify the props it receives from the parent component.
+Q-Event handling in ReactJs ?
+Ans:React, with its component-based architecture provides a seamless way to handle user interactions through events. Whether it's a button click, mouse hover, or keyboard input, understanding how to handle events is crucial for creating dynamic and interactive user interfaces.
+-Events are triggered by user interactions and are handled using functions known as event handlers. Event handlers are functions that define what happens when a particular event occurs.
+Q-Hooks in React ?
+Ans-Hooks are functions introduced in React 16.8 that allow you to use state and other React features in functional components. Before hooks, you needed class components to manage state or lifecycle events. Hooks made it possible to use these features in functional components, simplifying React development.
+Q-useState hook ?
+Ans-The useState Hook is the gateway to managing state in functional components. It returns an array with two elements: the current state value and a function that lets you update it.
